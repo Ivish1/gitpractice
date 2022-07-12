@@ -12,6 +12,10 @@ vishal=200
 ##this x value updte bu dune me ok ,
 #x=5
 #add two value this value
+<<<<<<< HEAD
+#x=100..>> solve to vai just update file dont chang volue
+>>>>>>> 3940aa30b564839b4a22735ab7d06b42aebeeec9
+=======
 o>>>>>>> 3940aa30b564839b4a22735ab7d06b42aebeeec9
 ok undestanding merge conflict if same time
 both dev, commit change same file and 
@@ -26,4 +30,5 @@ and then upload it .change this file
 #you can make as many changes with same value.
 #ok
 ##x=10
+>>>>>>> a75f8b9bb32c166ab5e3bcfff7ed004dde34958b
 

@@ -12,5 +12,18 @@ vishal=200
 ##this x value updte bu dune me ok ,
 #x=5
 #add two value this value
->>>>>>> 3940aa30b564839b4a22735ab7d06b42aebeeec9
+o>>>>>>> 3940aa30b564839b4a22735ab7d06b42aebeeec9
+ok undestanding merge conflict if same time
+both dev, commit change same file and 
+1 dev wil commit change in remote repo
+and 2 dev will try to push same file in remote repo
+at that time dev2  need first pull it 
+at that time git will catch error 
+will show merge ..conflict in ypour repo solve it first
+and then upload it .change this file
+## .if  you pull it before make chang in same file.
+##then you dont face any confict
+#you can make as many changes with same value.
+#ok
+##x=10
 

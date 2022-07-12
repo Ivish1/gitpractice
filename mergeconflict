@@ -2,6 +2,13 @@
 to show mrege conflict issue
 ok 
 vishal=100
+<<<<<<< HEAD
 .
 .
-x=2
+
+=======
+vishal=200
+##x=1
+
+>>>>>>> 3940aa30b564839b4a22735ab7d06b42aebeeec9
+
